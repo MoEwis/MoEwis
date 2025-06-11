@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey 👋 Mohamed Ewis, a Front End Developer.</h1>
+<h1 align="center"Hi 👋 I'm Mohamed Ewis, a Front-End Developer specializing in modern web interfaces</h1>
 
 ###
 
